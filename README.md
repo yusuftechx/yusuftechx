@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Sample standalone webpage for a tour and travel company (HTML, CSS) </b>
+- <b>Sample standalone webpage for a tour and travel company (HTML, CSS)</b>
   - [Standalone Website](https://github.com/lagosyusuf/yusuf-webapp)
+
+- <b>Basic web page layout for a GYM with link to the registration page (HTML, CSS)</b>
 
 
 

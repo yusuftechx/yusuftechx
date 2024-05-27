@@ -6,6 +6,7 @@
   - [Standalone Website](https://github.com/lagosyusuf/yusuf-webapp)
 
 - <b>Basic web page layout for a GYM with link to the registration page (HTML, CSS)</b>
+  -  [Gym Website](https://github.com/yusuftechx/Mini-Project-Gym-Demo)
 
 
 

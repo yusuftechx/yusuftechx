@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yusuf! <br/><a href="https://github.com/yusuftechx">Software Developer</a>, <a href="linkedin.com/in/yusuf-agbeleshola/">DevOps Engineer</a></h1>
+<h1>Hi, I'm Yusuf! <br/><a href="https://github.com/yusuftechx">Software Developer</a>, <a href="https://linkedin.com/in/yusuf-agbeleshola/">DevOps Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
